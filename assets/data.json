@@ -1,0 +1,597 @@
+[
+  {
+    "ID": 1,
+    "IPA": "jʊər",
+    "Examples": "cure (= /juːr/)",
+    "Type": "Full vowels followed by R",
+    "Explanation": "The IPA symbol 'jʊər' represents the sound /juːr/ which is a combination of a full vowel 'jʊ' followed by the phoneme /r/. It is commonly found in words like 'cure' and the symbol 'jʊ' represents the sound /ju/ which is similar to the word 'you'."
+  },
+  {
+    "ID": 2,
+    "IPA": "ŋ",
+    "Examples": "sang, sink, singer",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ŋ' represents the sound /ŋ/ which is a nasal consonant commonly found at the end of words, such as 'sang', 'sink', and 'singer'. It is pronounced by closing the back of the tongue against the soft palate, similar to the 'ng' sound in the word 'song'."
+  },
+  {
+    "ID": 3,
+    "IPA": "t",
+    "Examples": "tie, sty, cat, atom",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 't' represents the sound /t/ which is a voiceless alveolar plosive consonant commonly found in words like 'tie', 'sty', 'cat', and 'atom'. It is produced by blocking the airflow at the alveolar ridge with the tip of the tongue and then releasing it abruptly."
+  },
+  {
+    "ID": 4,
+    "IPA": "iː.ər",
+    "Examples": "freer",
+    "Type": "Full vowels followed by R",
+    "Explanation": "The IPA symbol 'iː.ər' represents the sound /iːr/ which is a combination of a full vowel 'iː' followed by the phoneme /r/. It is commonly found in words like 'freer' and the symbol 'iː' represents the long vowel sound /i:/ which is similar to the word 'see'."
+  },
+  {
+    "ID": 5,
+    "IPA": "aʊər",
+    "Examples": "flour (= /aʊr/)",
+    "Type": "Full vowels followed by R",
+    "Explanation": "The IPA symbol 'aʊər' represents the sound /aʊr/ which is a combination of a full vowel 'aʊ' followed by the phoneme /r/. It is commonly found in words like 'flour' and the symbol 'aʊ' represents the diphthong /aʊ/ which is similar to the sound in the word 'house'."
+  },
+  {
+    "ID": 6,
+    "IPA": "ær",
+    "Examples": "barrow, marry",
+    "Type": "Full vowels followed by R",
+    "Explanation": "The IPA symbol 'ær' represents the sound /ær/ which is a combination of a full vowel 'a' followed by the phoneme /r/. It is commonly found in words like 'barrow' and 'marry' and the symbol 'a' represents the short vowel sound /æ/ which is similar to the sound in the word 'cat'."
+  },
+  {
+    "ID": 7,
+    "IPA": "əl",
+    "Examples": "bottle, pedal",
+    "Type": "Consonants followed by L",
+    "Explanation": "The IPA symbol 'əl' represents the sound /əl/ which is a combination of a schwa vowel 'ə' followed by the phoneme /l/. It is commonly found in words like 'bottle' and 'pedal' and the symbol 'ə' represents the schwa sound /ə/ which is a neutral, unstressed vowel sound commonly found in weak syllables."
+  },
+  {
+    "ID": 8,
+    "IPA": "ʃ",
+    "Examples": "ship, wish, fashion",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʃ' represents the sound /ʃ/ which is a voiceless postalveolar fricative consonant commonly found in words like 'ship', 'wish', and 'fashion'. It is produced by raising the front of the tongue to the postalveolar ridge and creating a hissing sound as the air passes through."
+  },
+  {
+    "ID": 9,
+    "IPA": "ɜːr",
+    "Examples": "stirrer",
+    "Type": "Full vowels followed by R",
+    "Explanation": "The IPA symbol 'ɜːr' represents the sound /ɜːr/ which is a combination of a full vowel 'ɜː' followed by the phoneme /r/. It is commonly found in words like 'stirrer' and the symbol 'ɜː' represents the long vowel sound /ɜː/ which is similar to the sound in the word 'bird'."
+  },
+  {
+    "ID": 10,
+    "IPA": "p",
+    "Examples": "pat, cup, hope",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'p' represents the sound /p/ which is a voiceless bilabial plosive consonant commonly found in words like 'pat', 'cup', and 'hope'. It is produced by blocking the airflow at the lips and then releasing it abruptly."
+  },
+  {
+    "ID": 11,
+    "IPA": "ʌŋ",
+    "Examples": "young, sung",
+    "Type": "Vowels followed by NG",
+    "Explanation": "The IPA symbol 'ʌŋ' represents the sound /ʌŋ/ which is a combination of a vowel 'ʌ' followed by the nasal consonant /ŋ/. It is commonly found in words like 'young' and 'sung'. The symbol 'ʌ' represents the short vowel sound /ʌ/ which is similar to the sound in the word 'cup', and the symbol 'ŋ' represents the velar nasal sound /ŋ/ which is similar to the sound in the word 'song'."
+  },
+  {
+    "ID": 12,
+    "IPA": "tʃ",
+    "Examples": "chair, watch",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'tʃ' represents the sound /tʃ/ which is a voiceless postalveolar affricate consonant commonly found in words like 'chair' and 'watch'. It is produced by stopping the airflow with the tongue against the postalveolar ridge, and then releasing it with a sudden burst of sound followed by a fricative portion. It is similar to the 'ch' sound in the word 'church'."
+  },
+  {
+    "ID": 13,
+    "IPA": "æŋ",
+    "Examples": "bang, hang",
+    "Type": "Vowels followed by NG",
+    "Explanation": "The IPA symbol 'æŋ' represents the sound /æŋ/ which is a combination of a vowel 'æ' followed by the nasal consonant /ŋ/. It is commonly found in words like 'bang' and 'hang'. The symbol 'æ' represents the short vowel sound /æ/ which is similar to the sound in the word 'cat', and the symbol 'ŋ' represents the velar nasal sound /ŋ/ which is similar to the sound in the word 'song'."
+  },
+  {
+    "ID": 14,
+    "IPA": "θ",
+    "Examples": "think, bath",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'θ' represents the sound /θ/ which is a voiceless dental fricative consonant commonly found in words like 'think' and 'bath'. It is produced by placing the tip of the tongue against the upper front teeth and allowing the air to pass through with a hissing sound. It is similar to the 'th' sound in the word 'thin'."
+  },
+  {
+    "ID": 15,
+    "IPA": "ʊ",
+    "Examples": "book, could",
+    "Type": "Vowels",
+    "Explanation": "The IPA symbol 'ʊ' represents the sound /ʊ/ which is a short, rounded, and lax vowel commonly found in words like 'book' and 'could'. It is similar to the sound in the word 'put'."
+  },
+  {
+    "ID": 16,
+    "IPA": "ʃ",
+    "Examples": "ship, sure",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʃ' represents the sound /ʃ/ which is a voiceless postalveolar fricative consonant commonly found in words like 'ship' and 'sure'. It is produced by placing the middle part of the tongue against the postalveolar ridge and allowing the air to pass through with a hissing sound. It is similar to the 'sh' sound in the word 'shoe'."
+  },
+  {
+    "ID": 17,
+    "IPA": "ɔɪ",
+    "Examples": "boy, toy",
+    "Type": "Vowels",
+    "Explanation": "The IPA symbol 'ɔɪ' represents the sound /ɔɪ/ which is a combination of a vowel 'ɔ' followed by a vowel 'ɪ'. It is commonly found in words like 'boy' and 'toy'. The symbol 'ɔ' represents the mid-back rounded vowel sound /ɔ/ which is similar to the sound in the word 'thought', and the symbol 'ɪ' represents the near-close near-front unrounded vowel sound /ɪ/ which is similar to the sound in the word 'bit'."
+  },
+  {
+    "ID": 18,
+    "IPA": "ð",
+    "Examples": "this, that",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ð' represents the sound /ð/ which is a voiced dental fricative consonant commonly found in words like 'this' and 'that'. It is produced by placing the tip of the tongue against the upper front teeth and allowing the voiced air to pass through with a soft buzzing sound. It is similar to the 'th' sound in the word 'this'."
+  },
+  {
+    "ID": 19,
+    "IPA": "ə",
+    "Examples": "sofa, banana",
+    "Type": "Vowels",
+    "Explanation": "The IPA symbol 'ə' represents the sound /ə/ which is a schwa vowel commonly found in unstressed syllables of words like 'sofa' and 'banana'. It is a neutral, unstressed, and reduced vowel sound that is often described as a short and weak vowel. It is similar to the sound in the word 'sofa'."
+  },
+  {
+    "ID": 20,
+    "IPA": "ʒ",
+    "Examples": "treasure, measure",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʒ' represents the sound /ʒ/ which is a voiced postalveolar fricative consonant commonly found in words like 'treasure' and 'measure'. It is produced by placing the middle part of the tongue against the postalveolar ridge and allowing the voiced air to pass through with a buzzing sound. It is similar to the 'zh' sound in the word 'vision'."
+  },
+  {
+    "ID": 21,
+    "IPA": "ŋ",
+    "Examples": "sing, long",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ŋ' represents the sound /ŋ/ which is a voiced velar nasal consonant commonly found in words like 'sing' and 'long'. It is produced by closing the back of the tongue against the soft palate (velum) and allowing the voiced air to pass through the nasal cavity. It is similar to the 'ng' sound in the word 'song'."
+  },
+  {
+    "ID": 22,
+    "IPA": "ɛ",
+    "Examples": "bet, set",
+    "Type": "Vowels",
+    "Explanation": "The IPA symbol 'ɛ' represents the sound /ɛ/ which is a mid-front unrounded vowel commonly found in words like 'bet' and 'set'. It is similar to the 'e' sound in the word 'pet' but with a slightly more open and relaxed tongue position. It is a short and crisp vowel sound."
+  },
+  {
+    "ID": 23,
+    "IPA": "ʊ",
+    "Examples": "book, put",
+    "Type": "Vowels",
+    "Explanation": "The IPA symbol 'ʊ' represents the sound /ʊ/ which is a near-close near-back rounded vowel commonly found in words like 'book' and 'put'. It is similar to the 'u' sound in the word 'put' but with a slightly less rounded lips and a more relaxed tongue position. It is a short and rounded vowel sound."
+  },
+  {
+    "ID": 24,
+    "IPA": "θ",
+    "Examples": "think, thought",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'θ' represents the sound /θ/ which is a voiceless dental fricative consonant commonly found in words like 'think' and 'thought'. It is produced by placing the tip of the tongue against the upper front teeth and allowing the voiceless air to pass through with a soft hissing sound. It is similar to the 'th' sound in the word 'think'."
+  },
+  {
+    "ID": 25,
+    "IPA": "ʌ",
+    "Examples": "but, cut",
+    "Type": "Vowels",
+    "Explanation": "The IPA symbol 'ʌ' represents the sound /ʌ/ which is an open-mid back unrounded vowel commonly found in words like 'but' and 'cut'. It is similar to the 'uh' sound in the word 'butter' but with a slightly more relaxed tongue position. It is a short and neutral vowel sound."
+  },
+  {
+    "ID": 26,
+    "IPA": "ð",
+    "Examples": "this, that",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ð' represents the sound /ð/ which is a voiced dental fricative consonant commonly found in words like 'this' and 'that'. It is produced by placing the tip of the tongue against the upper front teeth and allowing the voiced air to pass through with a soft buzzing sound. It is similar to the 'th' sound in the word 'this'."
+  },
+  {
+    "ID": 27,
+    "IPA": "ə",
+    "Examples": "banana, sofa",
+    "Type": "Vowels",
+    "Explanation": "The IPA symbol 'ə' represents the sound /ə/ which is a mid-central vowel commonly found in unstressed syllables of words like 'banana' and 'sofa'. It is also known as the schwa sound and is a reduced and neutral vowel sound. It is often used as a weak vowel sound in English and can be found in various unstressed syllables."
+  },
+  {
+    "ID": 28,
+    "IPA": "ʃ",
+    "Examples": "ship, wish",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʃ' represents the sound /ʃ/ which is a voiceless postalveolar fricative consonant commonly found in words like 'ship' and 'wish'. It is produced by placing the middle part of the tongue against the hard palate (alveolar ridge) and allowing the voiceless air to pass through with a hissing sound. It is similar to the 'sh' sound in the word 'ship'."
+  },
+  {
+    "ID": 29,
+    "IPA": "ʒ",
+    "Examples": "treasure, measure",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʒ' represents the sound /ʒ/ which is a voiced postalveolar fricative consonant commonly found in words like 'treasure' and 'measure'. It is produced by placing the middle part of the tongue against the hard palate (alveolar ridge) and allowing the voiced air to pass through with a buzzing sound. It is similar to the 'zh' sound in the word 'treasure'."
+  },
+  {
+    "ID": 30,
+    "IPA": "ɪ",
+    "Examples": "bit, hit",
+    "Type": "Vowels",
+    "Explanation": "The IPA symbol 'ɪ' represents the sound /ɪ/ which is a near-close near-front unrounded vowel commonly found in words like 'bit' and 'hit'. It is similar to the 'i' sound in the word 'bit' but with a slightly more relaxed tongue position. It is a short and lax vowel sound."
+  },
+  {
+    "ID": 31,
+    "IPA": "ʌ",
+    "Examples": "cup, mud",
+    "Type": "Vowels",
+    "Explanation": "The IPA symbol 'ʌ' represents the sound /ʌ/ which is an open-mid back unrounded vowel commonly found in words like 'cup' and 'mud'. It is similar to the 'uh' sound in the word 'cup' but with a slightly more open mouth position. It is a short and relaxed vowel sound."
+  },
+  {
+    "ID": 32,
+    "IPA": "ŋ",
+    "Examples": "song, long",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ŋ' represents the sound /ŋ/ which is a voiced velar nasal consonant commonly found in words like 'song' and 'long'. It is produced by closing the back of the tongue against the soft palate (velum) and allowing the voiced air to pass through the nasal cavity. It is similar to the 'ng' sound in the word 'song'."
+  },
+  {
+    "ID": 33,
+    "IPA": "ʔ",
+    "Examples": "uh-oh, button",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʔ' represents the sound /ʔ/ which is a glottal stop consonant commonly found in words like 'uh-oh' and 'button'. It is produced by closing the vocal cords (glottis) briefly to create a momentary pause in the airflow. It is similar to the abrupt sound made when saying 'uh-oh'."
+  },
+  {
+    "ID": 34,
+    "IPA": "ʃ",
+    "Examples": "sheep, fresh",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʃ' represents the sound /ʃ/ which is a voiceless postalveolar fricative consonant commonly found in words like 'sheep' and 'fresh'. It is produced by forcing air through a narrow channel created by the tongue near the alveolar ridge, creating a hissing sound. It is similar to the 'sh' sound in the word 'sheep'."
+  },
+  {
+    "ID": 35,
+    "IPA": "ʒ",
+    "Examples": "treasure, vision",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʒ' represents the sound /ʒ/ which is a voiced postalveolar fricative consonant commonly found in words like 'treasure' and 'vision'. It is produced by forcing voiced air through a narrow channel created by the tongue near the alveolar ridge, creating a buzzing or buzzing sound. It is similar to the 'zh' sound in the word 'treasure'."
+  },
+  {
+    "ID": 36,
+    "IPA": "ɹ",
+    "Examples": "run, very",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɹ' represents the sound /ɹ/ which is a voiced alveolar approximant consonant commonly found in words like 'run' and 'very'. It is produced by bringing the tongue close to the alveolar ridge without creating enough turbulence to produce a fricative, but rather creating a smooth airflow. It is similar to the 'r' sound in the word 'run', but with a different tongue position."
+  },
+  {
+    "ID": 37,
+    "IPA": "ɾ",
+    "Examples": "water, ladder",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɾ' represents the sound /ɾ/ which is a voiced alveolar flap consonant commonly found in words like 'water' and 'ladder'. It is produced by briefly tapping the tongue against the alveolar ridge, creating a rapid and brief interruption of airflow. It is similar to the 'tt' sound in the word 'water' in some dialects or the 'dd' sound in the word 'ladder' in some accents."
+  },
+  {
+    "ID": 38,
+    "IPA": "ʋ",
+    "Examples": "voice, wave",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʋ' represents the sound /ʋ/ which is a voiced labiodental approximant consonant commonly found in words like 'voice' and 'wave'. It is produced by bringing the lower lip close to the upper teeth without creating enough turbulence to produce a fricative, but rather creating a smooth airflow. It is similar to the 'v' sound in the word 'voice', but with a different place of articulation."
+  },
+  {
+    "ID": 39,
+    "IPA": "j",
+    "Examples": "yes, yellow",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'j' represents the sound /j/ which is a voiced palatal approximant consonant commonly found in words like 'yes' and 'yellow'. It is produced by raising the body of the tongue towards the hard palate, creating a narrow passage for the airflow. It is similar to the 'y' sound in the word 'yes', but it can also act as a vowel in some cases, as in 'yellow'."
+  },
+  {
+    "ID": 40,
+    "IPA": "θ",
+    "Examples": "think, math",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'θ' represents the sound /θ/ which is an unvoiced dental fricative consonant commonly found in words like 'think' and 'math'. It is produced by placing the tip of the tongue against the upper front teeth and blowing air, creating a fricative sound. It is similar to the 'th' sound in the word 'think', but without voicing."
+  },
+  {
+    "ID": 41,
+    "IPA": "ð",
+    "Examples": "this, mother",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ð' represents the sound /ð/ which is a voiced dental fricative consonant commonly found in words like 'this' and 'mother'. It is produced by placing the tip of the tongue against the upper front teeth and blowing air, creating a fricative sound, but with voicing. It is similar to the 'th' sound in the word 'this', but with voicing."
+  },
+  {
+    "ID": 42,
+    "IPA": "ŋ",
+    "Examples": "song, ring",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ŋ' represents the sound /ŋ/ which is a voiced velar nasal consonant commonly found in words like 'song' and 'ring'. It is produced by raising the back of the tongue to the velum (the soft part towards the back of the roof of the mouth) and allowing the air to pass through the nasal cavity. It is similar to the 'ng' sound in the word 'song', but represented by a single symbol."
+  },
+  {
+    "ID": 43,
+    "IPA": "ʃ",
+    "Examples": "she, fish",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʃ' represents the sound /ʃ/ which is an unvoiced postalveolar fricative consonant commonly found in words like 'she' and 'fish'. It is produced by curling the tip of the tongue back and placing it near the roof of the mouth behind the alveolar ridge, while blowing air, creating a fricative sound. It is similar to the 'sh' sound in the word 'she'."
+  },
+  {
+    "ID": 44,
+    "IPA": "ʒ",
+    "Examples": "treasure, measure",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʒ' represents the sound /ʒ/ which is a voiced postalveolar fricative consonant commonly found in words like 'treasure' and 'measure'. It is produced by curling the tip of the tongue back and placing it near the roof of the mouth behind the alveolar ridge, while blowing air, creating a fricative sound, but with voicing. It is similar to the 'zh' sound in the word 'treasure'."
+  },
+  {
+    "ID": 45,
+    "IPA": "ɹ",
+    "Examples": "red, car",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɹ' represents the sound /ɹ/ which is an approximant consonant commonly found in words like 'red' and 'car'. It is produced by curling the tip of the tongue back and placing it near the roof of the mouth without creating any friction, allowing the air to flow smoothly around the sides of the tongue. It is similar to the 'r' sound in the word 'red', but it is not a rolled or tapped sound."
+  },
+  {
+    "ID": 46,
+    "IPA": "j",
+    "Examples": "yes, yellow",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'j' represents the sound /j/ which is a semivowel or glide consonant commonly found in words like 'yes' and 'yellow'. It is produced by raising the front of the tongue towards the hard palate, creating a brief sound similar to the 'y' sound in the word 'yes'. It is also known as the palatal approximant and often functions as a vowel in some languages."
+  },
+  {
+    "ID": 47,
+    "IPA": "w",
+    "Examples": "water, sweet",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'w' represents the sound /w/ which is a semivowel or glide consonant commonly found in words like 'water' and 'sweet'. It is produced by rounding the lips and creating a brief sound similar to the 'w' sound in the word 'water'. It is also known as the labio-velar approximant and often functions as a vowel in some languages."
+  },
+  {
+    "ID": 48,
+    "IPA": "θ",
+    "Examples": "think, teeth",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'θ' represents the sound /θ/ which is an unvoiced dental fricative consonant commonly found in words like 'think' and 'teeth'. It is produced by placing the tip of the tongue between the upper and lower front teeth and blowing air, creating a fricative sound. It is similar to the 'th' sound in the word 'think'."
+  },
+  {
+    "ID": 49,
+    "IPA": "ð",
+    "Examples": "this, them",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ð' represents the sound /ð/ which is a voiced dental fricative consonant commonly found in words like 'this' and 'them'. It is produced by placing the tip of the tongue between the upper and lower front teeth and creating a fricative sound with voicing. It is similar to the 'th' sound in the word 'this'."
+  },
+  {
+    "ID": 50,
+    "IPA": "ʃ",
+    "Examples": "ship, sure",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʃ' represents the sound /ʃ/ which is an unvoiced postalveolar fricative consonant commonly found in words like 'ship' and 'sure'. It is produced by raising the middle of the tongue towards the hard palate and blowing air, creating a fricative sound. It is similar to the 'sh' sound in the word 'ship'."
+  },
+  {
+    "ID": 51,
+    "IPA": "ʒ",
+    "Examples": "treasure, measure",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʒ' represents the sound /ʒ/ which is a voiced postalveolar fricative consonant commonly found in words like 'treasure' and 'measure'. It is produced by raising the middle of the tongue towards the hard palate and creating a fricative sound with voicing. It is similar to the 'zh' sound in the word 'treasure'."
+  },
+  {
+    "ID": 52,
+    "IPA": "h",
+    "Examples": "house, help",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'h' represents the sound /h/ which is an unvoiced glottal fricative consonant commonly found in words like 'house' and 'help'. It is produced by forcing air through the vocal cords with the vocal cords relaxed, creating a fricative sound. It is similar to the 'h' sound in the word 'house'."
+  },
+  {
+    "ID": 53,
+    "IPA": "ɾ",
+    "Examples": "water, letter",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɾ' represents the sound /ɾ/ which is an alveolar tap or flap consonant commonly found in words like 'water' and 'letter'. It is produced by quickly tapping the tip of the tongue against the alveolar ridge, creating a brief sound. It is similar to the 'tt' sound in the word 'water'."
+  },
+  {
+    "ID": 54,
+    "IPA": "ɽ",
+    "Examples": "butter, ladder",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɽ' represents the sound /ɽ/ which is a retroflex flap consonant commonly found in words like 'butter' and 'ladder'. It is produced by curling the tip of the tongue back and tapping it against the roof of the mouth, creating a brief sound. It is similar to the 'dd' sound in the word 'butter'."
+  },
+  {
+    "ID": 55,
+    "IPA": "ʋ",
+    "Examples": "wave, have",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʋ' represents the sound /ʋ/ which is a labiodental approximant consonant commonly found in words like 'wave' and 'have'. It is produced by bringing the lower lip close to the upper teeth without touching, creating an approximant sound. It is similar to the 'v' sound in the word 'wave'."
+  },
+  {
+    "ID": 56,
+    "IPA": "ɹ",
+    "Examples": "run, very",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɹ' represents the sound /ɹ/ which is an alveolar approximant consonant commonly found in words like 'run' and 'very'. It is produced by raising the front part of the tongue towards the alveolar ridge without touching, creating an approximant sound. It is similar to the 'r' sound in the word 'run'."
+  },
+  {
+    "ID": 57,
+    "IPA": "j",
+    "Examples": "yes, yellow",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'j' represents the sound /j/ which is a palatal approximant consonant commonly found in words like 'yes' and 'yellow'. It is produced by raising the middle of the tongue towards the hard palate without touching, creating an approximant sound. It is similar to the 'y' sound in the word 'yes'."
+  },
+  {
+    "ID": 58,
+    "IPA": "ɰ",
+    "Examples": "quick, liquor",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɰ' represents the sound /ɰ/ which is a voiced velar approximant consonant commonly found in words like 'quick' and 'liquor'. It is produced by raising the back of the tongue towards the velum without touching, creating an approximant sound. It is similar to the 'w' sound in the word 'quick'."
+  },
+  {
+    "ID": 59,
+    "IPA": "l",
+    "Examples": "light, apple",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'l' represents the sound /l/ which is an alveolar lateral approximant consonant commonly found in words like 'light' and 'apple'. It is produced by raising the sides of the tongue towards the sides of the upper teeth without touching, creating an approximant sound. It is similar to the 'l' sound in the word 'light'."
+  },
+  {
+    "ID": 60,
+    "IPA": "ɭ",
+    "Examples": "plan, sample",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɭ' represents the sound /ɭ/ which is a retroflex lateral approximant consonant commonly found in words like 'plan' and 'sample'. It is produced by curling the tip of the tongue back and raising the sides of the tongue towards the sides of the upper teeth without touching, creating an approximant sound. It is similar to the 'l' sound in the word 'plan'."
+  },
+  {
+    "ID": 61,
+    "IPA": "ʎ",
+    "Examples": "million, tortilla",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʎ' represents the sound /ʎ/ which is a palatal lateral approximant consonant commonly found in words like 'million' and 'tortilla'. It is produced by raising the middle of the tongue towards the hard palate and allowing the sides of the tongue to touch the sides of the upper teeth, creating an approximant sound. It is similar to the 'll' sound in the word 'million'."
+  },
+  {
+    "ID": 62,
+    "IPA": "j",
+    "Examples": "yes, yellow",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'j' represents the sound /j/ which is a palatal approximant consonant commonly found in words like 'yes' and 'yellow'. It is produced by raising the body of the tongue towards the hard palate without touching, creating an approximant sound. It is similar to the 'y' sound in the word 'yes'."
+  },
+  {
+    "ID": 63,
+    "IPA": "ʟ",
+    "Examples": "rare, lecture",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʟ' represents the sound /ʟ/ which is a velar lateral approximant consonant commonly found in words like 'rare' and 'lecture'. It is produced by raising the back of the tongue towards the velum and allowing the sides of the tongue to touch the sides of the upper teeth, creating an approximant sound. It is similar to the 'r' sound in some dialects of French and German."
+  },
+  {
+    "ID": 64,
+    "IPA": "ʟ̝̊",
+    "Examples": "Hålö, fröken",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʟ̝̊' represents the sound /ʟ̝̊/ which is a voiceless velar lateral fricative commonly found in some Scandinavian languages like Swedish and Norwegian. It is produced by producing a fricative noise at the back of the tongue towards the velum while allowing the sides of the tongue to touch the sides of the upper teeth, creating a voiceless fricative sound. It is similar to the 'hl' sound in some Swedish and Norwegian words like 'Hålö' and 'fröken'."
+  },
+  {
+    "ID": 65,
+    "IPA": "ɦ",
+    "Examples": "ahead, behind",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɦ' represents the sound /ɦ/ which is a voiced glottal fricative commonly found in some languages like Dutch and some dialects of English. It is produced by creating a fricative noise at the vocal cords without completely closing them, creating a voiced fricative sound. It is similar to the 'h' sound in some words like 'ahead' and 'behind', but with voicing."
+  },
+  {
+    "ID": 66,
+    "IPA": "ɬ",
+    "Examples": "Welsh, Czech",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɬ' represents the sound /ɬ/ which is a voiceless alveolar lateral fricative commonly found in some languages like Welsh and Czech. It is produced by creating a fricative noise with the tip of the tongue against the alveolar ridge while allowing air to flow around the sides of the tongue, creating a lateral fricative sound. It is similar to the 'sl' sound in some Welsh and Czech words."
+  },
+  {
+    "ID": 67,
+    "IPA": "ʍ",
+    "Examples": "which, when",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʍ' represents the sound /ʍ/ which is a voiceless labial-velar approximant commonly found in some dialects of English. It is produced by rounding the lips while raising the back of the tongue towards the velum, creating an approximant sound. It is similar to the 'wh' sound in some dialects of English in words like 'which' and 'when'."
+  },
+  {
+    "ID": 68,
+    "IPA": "ɥ",
+    "Examples": "suis, huit",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɥ' represents the sound /ɥ/ which is a labial-palatal approximant commonly found in some languages like French. It is produced by rounding the lips while raising the front of the tongue towards the hard palate, creating an approximant sound. It is similar to the 'w' sound in some French words like 'suis' and 'huit'."
+  },
+  {
+    "ID": 69,
+    "IPA": "ɧ",
+    "Examples": "Swedish, sjö",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɧ' represents the sound /ɧ/ which is a voiceless postalveolar fricative commonly found in some languages like Swedish. It is produced by creating a fricative noise at the postalveolar region, which is a place of articulation between the alveolar ridge and the hard palate, by simultaneously articulating the tip of the tongue against the alveolar ridge and the back of the tongue towards the hard palate. It is similar to the 'sh' sound in some Swedish words like 'sjö'."
+  },
+  {
+    "ID": 70,
+    "IPA": "ŋ",
+    "Examples": "song, long",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ŋ' represents the sound /ŋ/ which is a voiced velar nasal commonly found in some languages like English. It is produced by lowering the back of the tongue towards the velum, creating a nasal sound. It is similar to the 'ng' sound in words like 'song' and 'long'."
+  },
+  {
+    "ID": 71,
+    "IPA": "ʘ",
+    "Examples": "bilabial click",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʘ' represents the sound /ʘ/ which is a bilabial click sound used in some African languages. It is produced by closing the lips and then rapidly releasing them, creating a click sound. It is similar to the sound of a kiss or a popping sound made with the lips, but it is a distinct speech sound used as a consonant in some African languages."
+  },
+  {
+    "ID": 72,
+    "IPA": "ǀ",
+    "Examples": "dental click",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ǀ' represents the sound /ǀ/ which is a dental click sound used in some African languages. It is produced by placing the tip of the tongue against the upper front teeth and then rapidly releasing it, creating a click sound. It is similar to the sound of a tut-tut or a clicking sound made with the teeth, but it is a distinct speech sound used as a consonant in some African languages."
+  },
+  {
+    "ID": 73,
+    "IPA": "ǃ",
+    "Examples": "retroflex click",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ǃ' represents the sound /ǃ/ which is a retroflex click sound used in some African languages. It is produced by curling the tip of the tongue back towards the alveolar ridge and then rapidly releasing it, creating a click sound. It is similar to the sound of a tongue-click or a smacking sound made with the tongue, but it is a distinct speech sound used as a consonant in some African languages."
+  },
+  {
+    "ID": 74,
+    "IPA": "ǂ",
+    "Examples": "palatoalveolar click",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ǂ' represents the sound /ǂ/ which is a palatoalveolar click sound used in some African languages. It is produced by placing the tongue against the front part of the hard palate (the palatoalveolar region) and then rapidly releasing it, creating a click sound. It is similar to the sound of a tongue-click or a smacking sound made with the tongue against the roof of the mouth, but it is a distinct speech sound used as a consonant in some African languages."
+  },
+  {
+    "ID": 75,
+    "IPA": "ǁ",
+    "Examples": "alveolar lateral click",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ǁ' represents the sound /ǁ/ which is an alveolar lateral click sound used in some African languages. It is produced by placing the tip of the tongue against the alveolar ridge on one side and then rapidly releasing it, creating a click sound. It is similar to the sound of a tongue-click or a smacking sound made with the tongue against the side of the mouth, but it is a distinct speech sound used as a consonant in some African languages."
+  },
+  {
+    "ID": 76,
+    "IPA": "θ",
+    "Examples": "voiceless dental fricative",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'θ' represents the sound /θ/ which is a voiceless dental fricative sound. It is produced by placing the tip of the tongue against the upper front teeth and blowing air through the narrow gap, creating a fricative or hissing sound. It is similar to the 'th' sound in the English word 'thing', but it is a distinct speech sound used in various languages."
+  },
+  {
+    "ID": 77,
+    "IPA": "ð",
+    "Examples": "voiced dental fricative",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ð' represents the sound /ð/ which is a voiced dental fricative sound. It is produced by placing the tip of the tongue against the upper front teeth and allowing the vocal cords to vibrate while blowing air through the narrow gap, creating a fricative or buzzing sound. It is similar to the 'th' sound in the English word 'this', but it is a distinct speech sound used in various languages."
+  },
+  {
+    "ID": 78,
+    "IPA": "ɸ",
+    "Examples": "voiceless bilabial fricative",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɸ' represents the sound /ɸ/ which is a voiceless bilabial fricative sound. It is produced by bringing the upper and lower lips close together and blowing air through the narrow gap between them, creating a fricative or hissing sound. It is similar to the 'f' sound in the English word 'fan', but it is a distinct speech sound used in various languages."
+  },
+  {
+    "ID": 79,
+    "IPA": "β",
+    "Examples": "voiced bilabial fricative",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'β' represents the sound /β/ which is a voiced bilabial fricative sound. It is produced by bringing the upper and lower lips close together and allowing the vocal cords to vibrate while blowing air through the narrow gap between them, creating a fricative or buzzing sound. It is similar to the 'v' sound in the English word 'van', but it is a distinct speech sound used in various languages."
+  },
+  {
+    "ID": 80,
+    "IPA": "ʋ",
+    "Examples": "voiced labiodental approximant",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʋ' represents the sound /ʋ/ which is a voiced labiodental approximant sound. It is produced by bringing the lower lip into contact with the upper teeth and allowing the air to pass around the sides of the lip, creating an approximant or semi-vowel sound. It is similar to the 'w' sound in the English word 'win', but it is a distinct speech sound used in various languages."
+  },
+  {
+    "ID": 81,
+    "IPA": "ɹ",
+    "Examples": "voiced alveolar approximant",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɹ' represents the sound /ɹ/ which is a voiced alveolar approximant sound. It is produced by raising the tip of the tongue close to the alveolar ridge (the area just behind the upper front teeth) without actually touching it, creating an approximant or semi-vowel sound. It is similar to the 'r' sound in the English word 'run', but it is a distinct speech sound used in various languages."
+  },
+  {
+    "ID": 82,
+    "IPA": "ɻ",
+    "Examples": "voiced retroflex approximant",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɻ' represents the sound /ɻ/ which is a voiced retroflex approximant sound. It is produced by curling the tip of the tongue back towards the middle of the roof of the mouth (the hard palate), creating an approximant or semi-vowel sound. It is similar to the 'r' sound in some dialects of American English, but it is a distinct speech sound used in various languages."
+  },
+  {
+    "ID": 83,
+    "IPA": "j",
+    "Examples": "voiced palatal approximant",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'j' represents the sound /j/ which is a voiced palatal approximant sound. It is produced by raising the middle of the tongue close to the hard palate (the roof of the mouth) while keeping the tip of the tongue down, creating an approximant or semi-vowel sound. It is similar to the 'y' sound in the English word 'yes', but it is a distinct speech sound used in various languages."
+  },
+  {
+    "ID": 84,
+    "IPA": "ɰ",
+    "Examples": "voiced velar approximant",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ɰ' represents the sound /ɰ/ which is a voiced velar approximant sound. It is produced by raising the back of the tongue close to the soft palate (the back of the roof of the mouth) while keeping the tip of the tongue down, creating an approximant or semi-vowel sound. It is similar to the 'ng' sound in the English word 'song', but it is a distinct speech sound used in various languages."
+  },
+  {
+    "ID": 85,
+    "IPA": "ʔ",
+    "Examples": "glottal stop",
+    "Type": "Consonants",
+    "Explanation": "The IPA symbol 'ʔ' represents the sound /ʔ/ which is a glottal stop. It is produced by closing the vocal cords tightly, blocking the airflow at the glottis (the space between the vocal cords), and then releasing the vocal cords suddenly, creating a brief pause or closure in the airflow. It is similar to the sound made when saying the English word 'uh-oh' with a pause or click between the two syllables, and it is used as a distinct speech sound in various languages."
+  }
+]
