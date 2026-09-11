@@ -1,4 +1,4 @@
 {
   "incident": "Users cannot log in. Login requests are returning HTTP 400 for all users.",
-  "deployment_sha": "d2bfa61ead6eee673e4b00a500e77426f2953464"
+  "deployment_sha": "b1d4e534715e4bbf54ec4bc2881e7a37af7cfc85"
 }
