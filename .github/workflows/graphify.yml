@@ -1,0 +1,35 @@
+# .github/workflows/graphify.yml
+
+name: Update Graphify
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  graphify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout exact commit
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Install Graphify
+        run: uv tool install graphifyy
+
+      - name: Generate Graphify graph
+        run: graphify update . --no-viz
+
+      - name: Record commit provenance
+        run: |
+          echo "commit=$(git rev-parse HEAD)" > graphify-out/provenance.txt
+
+      - name: Upload Graphify artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: graphify-${{ github.sha }}
+          path: graphify-out/
