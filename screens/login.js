@@ -18,6 +18,7 @@ const LoginScreen = ({ navigation }) => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
+  // GRAPHIFY_SYNC_TEST
   const handleLogin = () => {
     const formData = new FormData();
     formData.append("email", email);
